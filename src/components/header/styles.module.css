@@ -1,0 +1,19 @@
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 100px;
+}
+.logotitle {
+  color: #274059;
+}
+.titleAndList {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+.loginContainer {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}

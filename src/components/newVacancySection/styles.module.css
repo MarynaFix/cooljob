@@ -1,0 +1,26 @@
+.NewVacancyContainer {
+  background-color: #e4f2ff;
+  padding: 5px 100px;
+}
+.categoryTitle {
+  font-size: 36px;
+  color: black;
+  margin-bottom: 10px;
+}
+.categorySubtitle {
+  color: #8d8d8d;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+.buttonDiv {
+  margin: 90px 0 150px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.allVacancy {
+  color: #ffffff;
+  font-size: 22px;
+  background-color: #274059;
+  padding: 20px 50px;
+}
