@@ -1,0 +1,50 @@
+.searchDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1130px;
+  width: 100%;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.mainSearch {
+  padding: 43px 127px 43px 53px;
+  font-size: 18px;
+  border: none;
+}
+.secondSearch {
+  padding: 43px 129px 43px 167px;
+  font-size: 18px;
+  border: none;
+}
+.searchBtn {
+  padding: 40px 70px;
+  color: #ffffff;
+  background-color: #274059;
+  font-size: 24px;
+  border: none;
+}
+.searchWrapper {
+  position: relative;
+}
+.locationWrapper {
+  position: relative;
+}
+
+.searchIcon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  width: 22px;
+  height: 28px;
+  pointer-events: none;
+}
+.locationIcon {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  width: 22px;
+  height: 28px;
+  pointer-events: none;
+}

@@ -1,0 +1,11 @@
+.welcomeTitle {
+  font-size: 62px;
+}
+.WelcomeSection {
+  padding-left: 100px;
+  padding-bottom: 295px;
+  position: relative;
+  background-image: url("/public/backgroundsvg.svg");
+  background-repeat: no-repeat;
+  background-position: right;
+}

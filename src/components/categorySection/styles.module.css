@@ -1,0 +1,9 @@
+.CategorySectionContainer {
+  background-color: #e4f2ff;
+  padding: 100px;
+}
+.categoryTitle {
+  font-size: 36px;
+  color: black;
+  margin-bottom: 40px;
+}

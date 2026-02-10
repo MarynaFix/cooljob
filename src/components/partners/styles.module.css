@@ -1,0 +1,21 @@
+.titlePartners {
+  font-size: 16px;
+  color: #696969;
+}
+
+.partnersContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px 70px;
+}
+.partnersIconsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 790px;
+  width: 100%;
+}
+.partnersIconsContainer > img {
+  color: #434343;
+}
