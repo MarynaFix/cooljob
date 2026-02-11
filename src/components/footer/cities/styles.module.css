@@ -1,0 +1,6 @@
+.citiesDiv {
+  color: #d0e8ff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
