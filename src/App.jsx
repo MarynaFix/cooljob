@@ -4,6 +4,7 @@ import WelcomeSection from "./components/welcomeSection";
 import Partners from "./components/partners";
 import CategorySection from "./components/categorySection";
 import NewVacancySection from "./components/newVacancySection";
+import Footer from "./components/footer";
 function App() {
   return (
     <div>
@@ -14,6 +15,7 @@ function App() {
       <Partners />
       <CategorySection />
       <NewVacancySection />
+      <Footer />
     </div>
   );
 }
